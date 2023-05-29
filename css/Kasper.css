@@ -1083,7 +1083,7 @@ list-style-type: none;
 
 .footer .container .logo{
     background-color: transparent;
-    width: 300px;
+    width: 200px;
     position: relative;
     display: block;
     left: 50%;
@@ -1102,7 +1102,7 @@ list-style-type: none;
 }
 .footer .container .logo img{
     width: 40px;
-    transform: translateX(-100%);
+    transform: translateX(-90%);
 }
 .footer .container .logo .logo-text {
     position: relative;
@@ -1116,7 +1116,7 @@ list-style-type: none;
     border: none;
     margin: 0;
     padding: 0;
-    right: 4px;
+    right: -14px;
 
 }
 .footer .container .logo .logo-text .logo-name{
@@ -1124,7 +1124,7 @@ list-style-type: none;
     font-family: 'Satisfy', cursive;
     position: absolute;
     top: -24px;
-    right: -2px;
+    right: -19px;
     font-size: 18px;
     font-weight: bold;
     letter-spacing: 2px;
@@ -1173,44 +1173,3 @@ list-style-type: none;
 /* end footer */
 
 
-
-
-
-
-
-
-
-
-
-/* 
-
-
-
-header .logo img{
-    width: 40px;
-}
-header .logo div{
-    position: relative;
-    width: 100px;
-    height: 45px;
-
-}
-header .logo div p{
-    color: var(--main-color);
-    text-decoration: none;
-    position: absolute;
-    font-size: 8px;
-    top: 5px;
-    right: 0px;
-
-header .logo .logo-name{
-    color: white;
-    font-family: 'Satisfy', cursive;
-    position: absolute;
-    top: 12px;
-    left: 45px;
-    font-size: 18px;
-    font-weight: bold;
-    letter-spacing: 2px;
-}
-} */
